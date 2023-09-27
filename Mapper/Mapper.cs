@@ -1,4 +1,4 @@
-﻿namespace MP.Bll
+﻿namespace Mapper
 {
     public class Class1
     {
